@@ -1,3 +1,12 @@
+THIS REPO HAS BEEN ARCHIVED!
+============================================================================
+
+This original repository of Dragonfly has been archived.
+Please see https://github.com/dictation-toolbox/dragonfly for the
+current actively maintained Dragonfly fork.
+
+----
+
 Dragonfly
 ============================================================================
 
