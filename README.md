@@ -1,6 +1,8 @@
 THIS REPO HAS BEEN ARCHIVED!
 ============================================================================
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This original repository of Dragonfly has been archived.
 Please see https://github.com/dictation-toolbox/dragonfly for the
 current actively maintained Dragonfly fork.
